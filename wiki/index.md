@@ -11,22 +11,22 @@ I am working with
 sustainable datacenters (datacenters that can operate profitably and
 have a zero-carbon footprint).
 
+Contact me:
+
+	echo "username@domain" | sed -n '/username/{s/username/dengn/g;}; 
+		/domain/{s/domain/cse.ohio-state.edu/; p}'
+
 ## Publications
 
-- *Concentrating Renewable Energy in Grid-Tied Datacenters*. Nan Deng,
-Christopher Stewart. Proceedings of the 2011 International Symposium
-on Sustainable Systems and Technology (ISSST 2011), May 2011.
 - *Policy and Mechanism for Carbon-Aware Cloud Applications*. Nan
 Deng, Christopher Stewart, Daniel Gmach, and Martin Arlitt. Network
 Operations and Management Symposium (short paper track), April 2012.
+- *Concentrating Renewable Energy in Grid-Tied Datacenters*. Nan Deng,
+Christopher Stewart. Proceedings of the 2011 International Symposium
+on Sustainable Systems and Technology (ISSST 2011), May 2011.
 
 ## Links
 
-- My email:	
-
-	echo "username@domain" | sed -n '/username/{s/username/dengn/g;};
-	/domain/{s/domain/cse.ohio-state.edu/; p}'
-	
 - [My Github](http://github.com/monnand)
 - [@monnand](http://twitter.com/monnand)
 - [My blog](http://monnand.me)
