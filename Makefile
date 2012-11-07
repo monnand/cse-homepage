@@ -1,5 +1,5 @@
 build:
 	markdoc build
-upload:
+scp:
 	markdoc build
-	scp -r .html/* sun:~/WWW/
+	scp -r .html/* stdlinux:~/WWW/
