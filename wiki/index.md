@@ -24,9 +24,11 @@ Contact me:
 - *Policy and Mechanism for Carbon-Aware Cloud Applications*. Nan Deng,
   Christopher Stewart, Daniel Gmach, and Martin Arlitt. Network Operations and
 Management Symposium (NOMS 2012), April 2012. [paper](noms-2012.pdf)
+- *Carbon-Aware Cloud Application*. Nan Deng. Network Operations and
+Management Symposium (NOMS 2012), April 2012. (student demo)
 - *Concentrating Renewable Energy in Grid-Tied Datacenters*. Nan Deng,
 Christopher Stewart. Proceedings of the 2011 International Symposium
-on Sustainable Systems and Technology (ISSST 2011), May 2011. [paper](issst-2011.pdf), [slides](issst-2011-slides.pdf)
+on Sustainable Systems and Technology (ISSST 2011), May 2011. [paper](issst-2011.pdf), [slides](issst-2011-slides.pdf) (awarded of Third Best Paper)
 
 ## Links
 
